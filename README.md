@@ -24,3 +24,16 @@ a simple list of Devs that created things on the AT Protocol, with links to supp
 | [Frontpage team](https://bsky.app/profile/did:plc:klmr76mpewpv7rtm3xgpzd7x/lists/team) | [frontpage.fyi](https://frontpage.fyi), [atproto-browser](https://atproto-browser.vercel.app/) | [GitHub Sponsorship](https://github.com/sponsors/likeandscribe), [Open Collective](https://opencollective.com/frontpage)|
 | [thieflord](https://bsky.app/profile/did:plc:4e3wxro75sds7cc2yfgnbnrc) | [Clearsky](https://clearsky.app), [TennisSky](https://tennissky.com), [Clearsky API](https://clearsky.services) | [Github Sponsorship](https://github.com/sponsors/clearskyapp06), [Ko-fi](https://ko-fi.com/clearskyapp), [Open Collective](https://opencollective.com/clearsky) |
 | [mmatt.net](https://bsky.app/profile/did:plc:tas6hj2xjrqben5653v5kohk) | [Teal.FM](https://teal.fm/) | [OpenCollective](https://opencollective.com/teal)|
+| [Tori](https://bsky.app/profile/did:plc:76iqtegcbbr4pbcxomka5pat) | [skylight.social](https://bsky.app/profile/did:plc:4adlzwqtkv4dirxjwq4c3tlm) | [Coming Soon?](https://skylight.social)  |
+| [Reed Harmeyer](https://bsky.app/profile/did:plc:uvuzsptk4b22b63xowm62chr) | [skylight.social](https://bsky.app/profile/did:plc:4adlzwqtkv4dirxjwq4c3tlm) | [Coming Soon?](https://skylight.social) |
+| [Shinya Katodid](https://bsky.app/profile/did:plc:iijrtk7ocored6zuziwmqq3c) | [AT Proto Dart](https://atprotodart.com/) | [GitHub Sponsorship](https://github.com/sponsors/myConsciousness) |
+|  [Ilya (Marshal)](https://bsky.app/profile/did:plc:s6jnht6koorxz7trghirytmf) | [The AT Protocol SDK (python)](https://atproto.blue/) | [GitHub Sponsorship](https://github.com/sponsors/MarshalX)
+| [すぎゃーん (sugyan.com)](https://bsky.app/profile/did:plc:4ee6oesrsbtmuln4gqsqf6fp) | [ATrium](https://github.com/sugyan/atrium) | [GitHub Sponsorship](https://github.com/sponsors/developer1) | 
+| [Gildásio](https://bsky.app/profile/did:plc:kber7c5xhwah2ocxzuqpytg5) | [Deck.Blue](https://deck.blue) | [Patreon](https://www.patreon.com/deckblue) | 
+| [John Spurlock](https://bsky.app/profile/did:plc:mceyt3qjswifxtikqqwvnnge) | [Firesky](https://firesky.tv/) | ? | 
+| [Sam’s Alt, man](https://bsky.app/profile/did:plc:6tm5ojdr5sgjfo5pqgn7szrk) - Bluesky PBC hired | [Graysky](https://www.graysky.app) | [GitHub Sponsorship](https://github.com/sponsors/mozzius) | 
+
+| [Developer1](https://bsky.app/profile/developer1.bsky.app) | [Tool1](https://www.tool1.com) | [GitHub Sponsorship](https://github.com/sponsors/developer1) | 
+| [Developer1](https://bsky.app/profile/developer1.bsky.app) | [Tool1](https://www.tool1.com) | [GitHub Sponsorship](https://github.com/sponsors/developer1) | 
+| [Developer1](https://bsky.app/profile/developer1.bsky.app) | [Tool1](https://www.tool1.com) | [GitHub Sponsorship](https://github.com/sponsors/developer1) | 
+| [Developer1](https://bsky.app/profile/developer1.bsky.app) | [Tool1](https://www.tool1.com) | [GitHub Sponsorship](https://github.com/sponsors/developer1) | 
