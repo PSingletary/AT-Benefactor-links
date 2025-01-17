@@ -13,4 +13,4 @@ a simple list of Devs that created things on the AT Protocol, with links to supp
 |-----------|------|---------|
 | [Ændra Rininsland](https://bsky.app/profile/did:plc:kkf4naxqmweop7dv4l2iqqf5) | [📰 News](https://bsky.app/profile/aendra.com/feed/verified-news), [xBlock](https://bsky.app/profile/aendra.com), [📰 Trending News](https://bsky.app/profile/aendra.com/feed/news-2-0) | [GitHub Sponsorship](https://github.com/sponsors/aendra-rininsland) |
 | [redsolver](https://bsky.app/profile/did:plc:odo2zkpujsgcxtz7ph24djkj) | [Skyfeed](https://skyfeed.app/) | [GitHub Sponsorship](https://github.com/sponsors/redsolver) |
-| [natalie](https://bsky.app/profile/developer1.bsky.app) | [ATProto Tools](https://atp.tools) | [GitHub Sponsorship](https://github.com/sponsors/developer1), [PayPal](https://paypal.me/developer1), [Venmo](https://venmo.com/developer1) |
+| [natalie](https://bsky.app/profile/did:plc:k644h4rq5bjfzcetgsa6tuby) | [ATProto Tools](https://atp.tools), [Teal.FM](https://teal.fm/) | [GitHub Sponsorship](https://github.com/sponsors/espeon) |
