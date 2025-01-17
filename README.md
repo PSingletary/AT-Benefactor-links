@@ -13,6 +13,6 @@ a simple list of Devs that created things on the AT Protocol, with links to supp
 | [mary](https://bsky.app/profile/did:plc:ia76kvnndjutgedggx2ibrem) | [Skeetdeck](https://skeetdeck.pages.dev/) | [GitHub Sponsorship](https://github.com/sponsors/mary-ext) |
 | [Midnight Wolf](https://bsky.app/profile/did:plc:cgynugrjidwc6eugchvyb3f6) | [SkyCord](https://skycord.app/) | [Ko-Fi](https://ko-fi.com/midnight_wolf___)  |
 did:plc:k6acu4chiwkixvdedcmdgmal https://akari.blue/
-| [luna](https://bsky.app/profile/did:plc:k6acu4chiwkixvdedcmdgmal) | [akari](https://akari.blue/) | [GitHub Sponsorship](https://github.com/sponsors/developer1), [PayPal](https://paypal.me/developer1), [Venmo](https://venmo.com/developer1), [Ko-fi](https://ko-fi.com/developer5), [Fourthwall](https://developer6.fourthwall.com), [Patreon](https://www.patreon.com/developer4)|
+| [luna](https://bsky.app/profile/did:plc:k6acu4chiwkixvdedcmdgmal) | [akari](https://akari.blue/) | [nope. i do all my stuff for free](https://bsky.app/profile/imlunahey.com/post/3lfvseembwk2j) |
 https://bsky.app/profile/did:plc:dacfxuonkf2qtqft22sc23tu
 | [JYC](https://bsky.app/profile/developer1.bsky.app) | [Sky Zoo](https://skyzoo.blue/) | [GitHub Sponsorship](https://github.com/sponsors/jycouet), [Ko-fi](https://ko-fi.com/E1E416BE51)|
