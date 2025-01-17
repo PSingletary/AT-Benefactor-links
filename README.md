@@ -8,7 +8,7 @@ a simple list of Devs that created things on the AT Protocol, with links to supp
 |-----------|------|---------|
 | [Ændra Rininsland](https://bsky.app/profile/did:plc:kkf4naxqmweop7dv4l2iqqf5) | [📰 News](https://bsky.app/profile/aendra.com/feed/verified-news), [xBlock](https://bsky.app/profile/aendra.com), [📰 Trending News](https://bsky.app/profile/aendra.com/feed/news-2-0) | [GitHub Sponsorship](https://github.com/sponsors/aendra-rininsland) |
 | [redsolver](https://bsky.app/profile/did:plc:odo2zkpujsgcxtz7ph24djkj) | [Skyfeed](https://skyfeed.app/) | [GitHub Sponsorship](https://github.com/sponsors/redsolver) |
-| [natalie](https://bsky.app/profile/did:plc:k644h4rq5bjfzcetgsa6tuby) | [ATProto Tools](https://atp.tools), [Teal.FM](https://teal.fm/) | [GitHub Sponsorship](https://github.com/sponsors/espeon) |
+| [natalie](https://bsky.app/profile/did:plc:k644h4rq5bjfzcetgsa6tuby) | [ATProto Tools](https://atp.tools), [Teal.FM](https://teal.fm/) | [GitHub Sponsorship](https://github.com/sponsors/espeon), [OpenCollective](opencollective.com/teal)|
 | [alice](https://bsky.app/profile/did:plc:by3jhwdqgbtrcc7q4tkkv3cf) | [Bluesky heatmap](https://bluesky-heatmap.fly.dev/), [Zodiac Sign Labels](zodiacsigns.bsky.sh) | [GitHub Sponsorship](https://github.com/sponsors/aliceisjustplaying) |
 | [mary](https://bsky.app/profile/did:plc:ia76kvnndjutgedggx2ibrem) | [Skeetdeck](https://skeetdeck.pages.dev/) | [GitHub Sponsorship](https://github.com/sponsors/mary-ext) |
 | [Midnight Wolf](https://bsky.app/profile/did:plc:cgynugrjidwc6eugchvyb3f6) | [SkyCord](https://skycord.app/) | [Ko-Fi](https://ko-fi.com/midnight_wolf___)  |
