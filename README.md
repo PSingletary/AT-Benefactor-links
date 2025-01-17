@@ -16,3 +16,4 @@ a simple list of Devs that created things on the AT Protocol, with links to supp
 | [natalie](https://bsky.app/profile/did:plc:k644h4rq5bjfzcetgsa6tuby) | [ATProto Tools](https://atp.tools), [Teal.FM](https://teal.fm/) | [GitHub Sponsorship](https://github.com/sponsors/espeon) |
 | [alice](https://bsky.app/profile/did:plc:by3jhwdqgbtrcc7q4tkkv3cf) | [Bluesky heatmap](https://bluesky-heatmap.fly.dev/), [Zodiac Sign Labels](zodiacsigns.bsky.sh) | [GitHub Sponsorship](https://github.com/sponsors/aliceisjustplaying) |
 | [mary](https://bsky.app/profile/did:plc:ia76kvnndjutgedggx2ibrem) | [Skeetdeck](https://skeetdeck.pages.dev/) | [GitHub Sponsorship](https://github.com/sponsors/mary-ext) |
+| [Midnight Wolf]([https://bsky.app/profile/developer6.bsky.app](https://bsky.app/profile/did:plc:cgynugrjidwc6eugchvyb3f6)) | [SkyCord](https://skycord.app/) | [Ko-Fi](https://ko-fi.com/midnight_wolf___)  |
