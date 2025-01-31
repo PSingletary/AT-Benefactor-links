@@ -32,6 +32,7 @@ a simple list of Devs that created things on the AT Protocol, with links to supp
 | [Gildásio](https://bsky.app/profile/did:plc:kber7c5xhwah2ocxzuqpytg5) | [Deck.Blue](https://deck.blue) | [Patreon](https://www.patreon.com/deckblue) | 
 | [John Spurlock](https://bsky.app/profile/did:plc:mceyt3qjswifxtikqqwvnnge) | [Firesky](https://firesky.tv/) | ? | 
 | [Sam’s Alt, man](https://bsky.app/profile/did:plc:6tm5ojdr5sgjfo5pqgn7szrk) - Bluesky PBC hired | [Graysky](https://www.graysky.app) | [GitHub Sponsorship](https://github.com/sponsors/mozzius) | 
+| [Lalit](https://bsky.app/profile/did:plc:tx4quzdjqbupsqasreq4qwph) | [blueskybookmarks.com](https://blueskybookmarks.com/) ~ PWA | Subscription to unlock more features |
 
 | [Developer1](https://bsky.app/profile/developer1.bsky.app) | [Tool1](https://www.tool1.com) | [GitHub Sponsorship](https://github.com/sponsors/developer1) | 
 | [Developer1](https://bsky.app/profile/developer1.bsky.app) | [Tool1](https://www.tool1.com) | [GitHub Sponsorship](https://github.com/sponsors/developer1) | 
