@@ -31,6 +31,7 @@ a simple list of Devs that created things on the AT Protocol, with links to supp
 | [すぎゃーん (sugyan.com)](https://bsky.app/profile/did:plc:4ee6oesrsbtmuln4gqsqf6fp) | [ATrium](https://github.com/sugyan/atrium) | [GitHub Sponsorship](https://github.com/sponsors/developer1) | 
 | [Gildásio](https://bsky.app/profile/did:plc:kber7c5xhwah2ocxzuqpytg5) | [Deck.Blue](https://deck.blue) | [Patreon](https://www.patreon.com/deckblue) | 
 | [John Spurlock](https://bsky.app/profile/did:plc:mceyt3qjswifxtikqqwvnnge) | [Firesky](https://firesky.tv/) | ? | 
+| [Cuducos](https://bsky.app/profile/did:plc:3272gdrjsuikiff7qsgokgas) | [`not-my-ex`](https://github.com/cuducos/not-my-ex), post from the CLI, supports images (with alt text) and auto-detects post's language | [GitHub Sponsorship](https://github.com/sponsors/cuducos) | 
 | [Sam’s Alt, man](https://bsky.app/profile/did:plc:6tm5ojdr5sgjfo5pqgn7szrk) - Bluesky PBC hired | [Graysky](https://www.graysky.app) | [GitHub Sponsorship](https://github.com/sponsors/mozzius) | 
 | [Lalit](https://bsky.app/profile/did:plc:tx4quzdjqbupsqasreq4qwph) | [blueskybookmarks.com](https://blueskybookmarks.com/) ~ PWA | Subscription to unlock more features |
 
